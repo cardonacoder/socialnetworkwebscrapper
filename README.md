@@ -24,7 +24,7 @@ If not, install it via ```pip install virtualenv``` command on a shell, like thi
 ![4.Installing_venv](https://github.com/cardonacoder/socialnetworkwebscrapper/blob/main/README_images/4.Installing_venv.png?raw=true)
 3. With the ```virtualenv``` library globaly installed, it proceed to situate in the project folder and create the envirorment by typing the following command ```virtualenv -p python3 env``` in the terminal like it shows in the picture:
 
-![5.Creating_venv](https://github.com/cardonacoder/socialnetworkwebscrapper/blob/main/README_images/4.Instal_venv.exe.png?raw=true)
+![5.Creating_venv](https://github.com/cardonacoder/socialnetworkwebscrapper/blob/main/README_images/5.Creating_venv.png?raw=true)
 
 After the envirorment creation, this one must be activated introducing the next code line:  ```.\env\Scripts\activate```. It is important to note that if the machine in which it is working has windows OS, the following error could appear:
 
