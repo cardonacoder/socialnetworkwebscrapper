@@ -43,3 +43,9 @@ The main reason to follow the previous steps, was because have a virtual enviror
 ![9.Activate_and_DjangoInstall](https://github.com/cardonacoder/socialnetworkwebscrapper/blob/main/README_images/9.Activate_and_DjangoInstall.png?raw=true)
 
 [3.11.1]:(https://www.python.org/downloads/release/python-3111/)
+
+pip3 install beautifulsoup4
+pip3 install requests
+pip3 install lxml
+
+python manage.py runserver 7000
